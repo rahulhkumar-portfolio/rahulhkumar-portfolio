@@ -18,17 +18,6 @@ with 2+ years at London Stock Exchange Group (LSEG)
 
 ---
 
-## 🏆 Professional Certifications
-
-### Financial & Audit Certifications
-- 📈 **CFA (Chartered Financial Analyst)** - *In Progress* (Level II candidate, June 2025)
-- 🔍 **CFE (Certified Fraud Examiner)** - *In Progress* (Expected completion: March 2025)
-- 💼 **CA (Chartered Accountant)** - *In Progress* (Final level, appearing May 2025)
-- 📊 **FRM (Financial Risk Manager)** - *Planned* (Registration for Nov 2025)
-- 🏛️ **CISA (Certified Information Systems Auditor)** - *Planned*
-
----
-
 ## 💼 Core Competencies & Soft Skills
 
 ### 🎯 **Leadership & Communication**
