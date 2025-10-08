@@ -13,7 +13,7 @@
 • **Data Analytics:** Advanced Excel, Python, SQL, Power BI, and automated reporting solutions
 
 ### 💼 **Professional Experience & Achievements**
-**5+ Years** in financial services with demonstrated expertise across:
+**2+ Years** in financial services with demonstrated expertise across:
 
 #### **Key Quantifiable Impacts:**
 • 💰 **₹500+ crores** total asset value managed and analyzed
