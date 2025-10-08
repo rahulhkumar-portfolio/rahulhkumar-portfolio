@@ -69,8 +69,6 @@ with 2+ years at London Stock Exchange Group (LSEG)
 - 📈 **Improved** data accuracy from 78% to 98% through automated validations
 - 🔧 **Tech Stack:** SQL | Python | Power BI | ETL | Tally ERP
 
-**📸 [View Dashboard Screenshots](https://imgur.com/your-dashboard-screenshots)**
-
 ---
 
 ### 🕵️ Forensics/Fraud Analysis Project
@@ -99,8 +97,6 @@ with 2+ years at London Stock Exchange Group (LSEG)
 
 **🔧 Tech Stack:** Python (Pandas, Scikit-learn) | SQL | Tableau | Statistical Analysis | Benford's Law
 
-**📸 [View Investigation Visualizations](https://imgur.com/fraud-analysis-charts)**
-
 ---
 
 ### 📈 [LSEG Financial Reporting Dashboard](https://github.com/rahulhkumar/lseg-financial-reporting-dashboard)
@@ -114,8 +110,6 @@ with 2+ years at London Stock Exchange Group (LSEG)
 - 📊 **Enabled** real-time monitoring for senior management decision-making
 - 🤝 **Coordinated** with 8 different departments for seamless data integration
 - 🔧 **Tech Stack:** SQL | Power BI | Data Automation | Statistical Analysis
-
-**📸 [View Live Dashboard Demo](https://app.powerbi.com/your-dashboard-link)**
 
 ---
 
@@ -143,8 +137,6 @@ Developed a comprehensive three-tier reconciliation process that validates corpo
 
 **🔧 Tech Stack:** Python | SQL | Bloomberg API | Reuters Eikon | Excel VBA | Power BI
 
-**📸 [View Corporate Actions Dashboard](https://imgur.com/corporate-actions-screenshots)**
-
 ---
 
 ### 💰 [Coca-Cola Equity Valuation & DCF Model](https://github.com/rahulhkumar/coca-cola-equity-valuation-dcf)
@@ -159,8 +151,6 @@ Developed a comprehensive three-tier reconciliation process that validates corpo
 - 🔍 **Benchmarked** against 15 industry peers with detailed comparable analysis
 - 🔧 **Tech Stack:** Python | Excel | Power BI | Financial Modeling | Monte Carlo
 
-**📸 [View Model Screenshots & Charts](https://imgur.com/coca-cola-valuation)**
-
 ---
 
 ### 🤝 [Disney-Fox M&A Financial Model](https://github.com/rahulhkumar/disney-fox-mna-model)
@@ -174,8 +164,6 @@ Developed a comprehensive three-tier reconciliation process that validates corpo
 - 💰 **Modeled** $71.3B transaction with debt/equity optimization across 5 financing scenarios
 - 🎯 **Presented** findings to Managing Director level, leading to successful client mandate
 - 🔧 **Tech Stack:** Excel | Power BI | SQL | Advanced Financial Modeling
-
-**📸 [View M&A Model & Presentation](https://imgur.com/disney-fox-model)**
 
 ---
 
@@ -207,9 +195,8 @@ Developed a comprehensive three-tier reconciliation process that validates corpo
 ## 📞 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulhkumar)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahul.h.kumar@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rahulhkumar.github.io)
-[![Resume](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/your-resume/view?usp=sharing)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulhkumar06@outlook.com)
+[![Resume](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)]
 
 ---
 
