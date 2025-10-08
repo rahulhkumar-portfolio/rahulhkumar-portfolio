@@ -4,7 +4,7 @@
 
 ## 📄 Career Summary
 
-**Senior Financial Analyst & Forensic Auditor | 5+ Years Experience | Immediate Availability**
+**Senior Financial Analyst & Forensic Auditor | 2+ Years Experience | Immediate Availability | Ex-LSEG**
 
 ### 🎯 **Core Expertise**
 • **Financial Analysis:** DCF modeling, equity valuation, Monte Carlo simulations, and investment research
